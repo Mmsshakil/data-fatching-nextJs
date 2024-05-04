@@ -1,0 +1,40 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Exploring the wonders of nature",
+            "description": "Embark on a journey through lush forests, cascading waterfalls, and majestic mountains. Discover the beauty of untouched landscapes and diverse wildlife. Join us in experiencing the harmony of nature's symphony.",
+            "likeCount": 128
+        },
+        {
+            "id": 2,
+            "title": "Unleash your creativity",
+            "description": "Let your imagination run wild as you delve into the world of art and design. From vibrant paintings to intricate sculptures, express yourself in boundless ways. Join our community and ignite your passion for creativity.",
+            "likeCount": 94
+        },
+        {
+            "id": 3,
+            "title": "Mastering the art of cooking",
+            "description": "Savor the flavors of culinary excellence as you hone your skills in the kitchen. From gourmet delights to comfort classics, explore the endless possibilities of gastronomy. Join us on a journey to culinary mastery.",
+            "likeCount": 205
+        },
+        {
+            "id": 4,
+            "title": "Empowering women in STEM",
+            "description": "Break barriers and shatter stereotypes in the exciting world of science, technology, engineering, and mathematics. Join our movement to support and celebrate women in STEM fields. Together, we can inspire the next generation of innovators.",
+            "likeCount": 312
+        },
+        {
+            "id": 5,
+            "title": "Discovering ancient civilizations",
+            "description": "Embark on a voyage through time to unravel the mysteries of ancient civilizations. From majestic pyramids to enigmatic ruins, delve into the rich tapestry of human history. Join us on an archaeological adventure of epic proportions.",
+            "likeCount": 176
+        },
+        {
+            "id": 6,
+            "title": "Embracing mindfulness and meditation",
+            "description": "Find inner peace and serenity in the chaos of modern life through mindfulness and meditation. Cultivate a deeper connection with yourself and the world around you. Join our community and embark on a journey of self-discovery.",
+            "likeCount": 423
+        }
+    ]
+}
